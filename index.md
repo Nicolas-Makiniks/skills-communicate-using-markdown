@@ -9,3 +9,9 @@ I've need to edit inside the pull request... not to merge before edit, thats my 
 ``` javascript
 var myVar = "Hello world";
 ```
+
+## Addin task list
+- [x] Learn headers
+- [x] Learn alt text
+- [x] Learn codespace
+- [x] Learn task list
