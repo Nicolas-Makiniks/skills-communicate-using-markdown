@@ -10,7 +10,7 @@ I've need to edit inside the pull request... not to merge before edit, thats my 
 var myVar = "Hello world";
 ```
 
-## Addin task list
+## Adding task list
 - [x] Learn headers
 - [x] Learn alt text
 - [x] Learn codespace
